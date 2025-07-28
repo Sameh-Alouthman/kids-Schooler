@@ -1,0 +1,42 @@
+logo = https://res.cloudinary.com/dos9zxky6/image/upload/v1753216648/logo_ydxler.png
+for slider = 
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753201433/download_hm78hj.jpg
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753201371/3_2_i1z74h.jpg
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753201434/%D0%B4%D0%B5%D1%82%D0%B8_prmccd.jpg
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753201434/Everyone_can_learn_oajvuf.jpg
+
+nono=
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179435/nono_dfoiz7.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179426/nonop1_oghcqk.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179438/nonop2_sm6sd0.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179442/nonop3_xnbfy8.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179434/nonop4_wuwe6h.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179435/nonop5_iccygn.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179426/nonop6_mglumh.png
+
+planets = 
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179447/PlanetBackgound_ouzfip.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179450/earth_p8l2tv.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179443/mercury_aof8bd.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179442/jupiter_uz9fxr.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179440/uranus_siclae.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179437/venus_acged4.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179431/saturn_xp6k9n.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179429/neptune_wedyp0.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179428/mars_xazmbc.png
+
+sinse=
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179425/sinse_aibqab.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179438/sinsep1_m0satb.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179432/sinsep2_dhfqmv.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179440/sinsep3_zdhbrm.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179443/sinsep4_ptp9fn.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179443/sinsep5_uradu8.png
+https://res.cloudinary.com/dos9zxky6/image/upload/v1753179446/sinsep6_ppef5x.png
+
+
+octopus = https://res.cloudinary.com/dos9zxky6/image/upload/v1753223904/oct_vvarxp.png
+
+robot = https://res.cloudinary.com/dos9zxky6/image/upload/v1753223861/robot_lfu0gs.png
+
+fish = https://res.cloudinary.com/dos9zxky6/image/upload/v1753223890/fish_zswrme.png
